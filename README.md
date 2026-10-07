@@ -1,2 +1,2 @@
 # google
-google
+google.com
